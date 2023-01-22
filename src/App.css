@@ -45,3 +45,10 @@ margin-bottom: 20px;
 .teachers-note-p{
   font-size: small;
 }
+
+
+/* Styling for suggestion at the top */
+.netlify-suggestion-p{
+  font-size: small;
+}
+
