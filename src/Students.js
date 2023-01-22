@@ -18,6 +18,9 @@ function Students(){
     return (
        
         <Container className="main-container">
+            
+            <p className="netlify-suggestion-p">Kindly <b>DO NOT REFRESH</b> this netlify site when you are in the page other than home (dashboard) page. If you refresh on page other than home page, then it will give "page not found" (problem with netlify deployment). </p>
+            
             <br />
             <h5>Students-list page</h5>
             <br />
