@@ -7,7 +7,7 @@ function Dashboard(){
     const navigate = useNavigate();
     return <Container className="main-container">
         <br />
-        <br />
+        <p className="netlify-suggestion-p">Kindly <b>DO NOT REFRESH</b> this netlify site when you are in the page other than home (dashboard) page. If you refresh on page other than home page, then it will give "page not found" (problem with netlify deployment). </p>
         <br />
         <h5 className="dashboard-heading-div">Admin-dashboard page</h5>
         <br />
